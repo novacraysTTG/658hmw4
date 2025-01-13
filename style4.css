@@ -1,0 +1,27 @@
+body {
+  background-color: aliceblue;
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 50px
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkslategrey;
+  margin: 10px;
+}
+ol.bold {
+  font-weight: bold;
+  text-shadow: 2px 2px #ff0000;
+}
+ol.center{
+  text-align: center;
+}
+#firstsect {
+  background-color: thistle;
+}
+#secondsect {
+  background-color: navajowhite;
+}
